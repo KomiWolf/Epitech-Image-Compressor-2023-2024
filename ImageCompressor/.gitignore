@@ -1,0 +1,6 @@
+# Binary file
+imageCompressor
+
+# Unecessary files/folders
+.stack-work
+.vscode
